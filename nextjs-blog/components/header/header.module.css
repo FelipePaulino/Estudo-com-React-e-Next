@@ -1,0 +1,30 @@
+.container{
+    height:200px;
+    width: 100%;
+    border: 1px solid black;
+    overflow: hidden;
+}
+.img{
+    height: 200px;
+    width: auto;
+}
+.flex{
+    display:flex;
+}
+.title{
+    font-size: 26px;
+}
+.description{
+    font-size: 12px;
+    color: #999;
+}
+.link{
+    margin-right: 20px;
+    color: aqua;
+    text-decoration: none;
+}
+.link2{
+    margin-right: 20px;
+    color:green;
+    text-decoration: none;
+}
