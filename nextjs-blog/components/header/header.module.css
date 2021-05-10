@@ -20,8 +20,14 @@
 }
 .link{
     margin-right: 20px;
-    color: aqua;
+    color: black;
+    font-size: 16px;
+    font-family: arial;
     text-decoration: none;
+    border-right: 1px solid #000;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    line-height: 24px;
 }
 .link2{
     margin-right: 20px;

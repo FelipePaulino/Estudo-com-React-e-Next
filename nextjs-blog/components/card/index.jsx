@@ -6,9 +6,9 @@ function card({ title, description, link, link2, img, link3, isImage }) {
     return (
         <div className={styles.container}>
             {/* Atende os dados casos */}
-            {isImage === true && title === 'Aula 1' &&
+            {/* {isImage === true && title === 'Aula 1' && */}
                 <img className={styles.img} src={img} />
-            }
+            {/* } */}
 
             <h1 className={styles.title}>
                 {title}
